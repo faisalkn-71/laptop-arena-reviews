@@ -1,0 +1,7 @@
+.review-box{
+    border-left: 2px solid gray;
+    border-top: 2px solid gray;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 5px gray;
+    padding: 10px 20px;
+}
