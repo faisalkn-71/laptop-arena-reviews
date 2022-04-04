@@ -1,5 +1,6 @@
 import React from 'react';
 import useReviews from '../../hooks/useReviews';
+import { Link } from 'react-router-dom';
 import Review from '../Review/Review';
 import './Home.css'
 
@@ -34,6 +35,11 @@ const Home = () => {
                     ></Review>)
                 }
                 </div>
+
+                <button className='all-reviews'>
+                <Link to='/reviews' >Show all Reviews</Link>
+                </button>
+                
             </div>
 
         </div>

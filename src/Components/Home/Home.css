@@ -7,3 +7,23 @@
     text-align: start;
     
 }
+
+.all-reviews{
+    font-weight: 700;
+    padding: 10px 10px;
+    border: 2px solid blue;
+    border-radius: 20px;
+    margin: 20px 0;
+    
+}
+
+.all-reviews a{
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+
+.all-reviews :hover{
+    color: white;
+    background-color: blue;
+}
