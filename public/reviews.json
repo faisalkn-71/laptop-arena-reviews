@@ -1,0 +1,38 @@
+[
+    {
+      "id": "624a981848da73816244a4c7",
+      "review": "If you want a cheap laptop, but also want to benefit from the freedom that Windows provides, then the Surface Laptop Go is our top recommendation. It’s available for under £450, despite boasting an excellent build quality and featuring Intel Core processor options that impressed during our benchmark tests.",
+      "ratings": 4,
+      "name": "Wade Mathews"
+    },
+    {
+      "id": "624a9818a1ef99e9e3cc7cdc",
+      "review": "Chromebooks are a great option for those who want a cheap laptop with a simple operating system. We’d recommend a Chromebook to anyone who wants a cheap laptop and is happy to stick to popular apps such as Google Docs, Spotify and Netflix. But if you may need to download more obscure software, then it’s safer to opt for a Window laptop instead.",
+      "ratings": 5,
+      "name": "Brewer Ward"
+    },
+    {
+      "id": "624a9818cb17a4c6b9d44e4a",
+      "review": "In our experience, there are plenty of reasons why you should opt for macOS over Windows. It works well with other Apple gadgets such as iPhones and iPads, and it’s arguably a more streamlined and easy-to-use operating system if you’re not fussed about the greater versatility of Windows.",
+      "ratings": 4,
+      "name": "Lynch Eaton"
+    },
+    {
+      "id": "624a9818516b3f10b8776019",
+      "review": "It also weighs just 1.2kg, which is so light that we often forgot it was inside our bag when lugging it to and from the office every day. You can find even lighter laptops, such as the Acer Swift 5, but you will see a trade-off to the build quality by opting for such portables. ",
+      "ratings": 3,
+      "name": "Elisa Graham"
+    },
+    {
+      "id": "624a98185bdb032e8d461c69",
+      "review": "We found it difficult to see where LG has made compromises too, with the Intel Core processor still providing a fast productivity performance according to our benchmark tests, and the keyboard feeling sturdy enough to hammer out multiple essays.",
+      "ratings": 4,
+      "name": "Brandy Horn"
+    },
+    {
+      "id": "624a98181f9d48d5b5150378",
+      "review": "If you want a laptop that can double up as a makeshift tablet, then you’ll want to look at 2-in-1 devices. We think the Microsoft Surface Laptop Studio is one of the best options with such a form factor, although it has a very specific use case given its hefty weight.",
+      "ratings": 3,
+      "name": "Bolton Workman"
+    }
+  ]
