@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Laptop Arena
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Live site of Laptop Arena](https://assignment-9-on-programming-hero.netlify.app/).
 
 ## Available Scripts
 
