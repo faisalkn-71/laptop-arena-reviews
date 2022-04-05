@@ -4,10 +4,10 @@ This project was bootstrapped with [Live site of Laptop Arena](https://assignmen
 
 ## Projects Details
 
-*This is a basically laptop review website.
-*In reviews page you can see some reviews there from our user.
-*In the Dashboard page, there are two chart about investment vs revenue.
-*In the Blogs sections, you can see there is two questions and answers.
+* This is a basically laptop review website.
+* In reviews page you can see some reviews there from our user.
+* In the Dashboard page, there are two chart about investment vs revenue.
+* In the Blogs sections, you can see there is two questions and answers.
 
 ## Available Scripts
 
