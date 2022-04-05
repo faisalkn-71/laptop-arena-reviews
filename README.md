@@ -1,11 +1,11 @@
 # Laptop Arena
 
-This project was bootstrapped with [Live site of Laptop Arena](https://assignment-9-on-programming-hero.netlify.app/).
+[Live site of Laptop Arena](https://assignment-9-on-programming-hero.netlify.app/).
 
 ## Projects Details
 
 * This is a basically laptop review website.
-* In reviews page you can see some reviews there from our user.
+* In the Reviews page you can see some reviews there from our user.
 * In the Dashboard page, there are two chart about investment vs revenue.
 * In the Blogs sections, you can see there is two questions and answers.
 

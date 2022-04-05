@@ -1,4 +1,3 @@
-import React, { useEffect } from 'react';
 import useReviews from '../../hooks/useReviews';
 import { Link } from 'react-router-dom';
 import Review from '../Review/Review';
@@ -8,16 +7,7 @@ import image from '../image/hp-spectre.jpg'
 const Home = () => {
     const [reviews, setReviews] = useReviews([])
 
-    // useEffect(() => {
-    //     const newReviews = reviews.slice(1, 4);
-
-    //     setReviews(newReviews);
-    // },[])
-
-    // console.log(reviews.slice(1, 4))
-    // const editedReview = reviews.slice(1, 4)
-
-    // setReviews(editedReview)
+    
     return (
         <div>
             <div className='front-show'>
@@ -28,12 +18,12 @@ const Home = () => {
                     <p>So, why do you waiting for? Come here and take your needed one.</p>
                 </div>
                 <img className='home-img' src={image} alt="" />
-
-                
+      
             </div>
 
             <div>
                 <h2>Customers Reviews</h2>
+                
                 <div  className='reviews-section'>
                 {
                     reviews.slice(1, 4).map(review => <Review
@@ -44,7 +34,7 @@ const Home = () => {
                 </div>
 
                 <button className='all-reviews'>
-                <Link to='/reviews' >Show all Reviews</Link>
+                <Link to='/reviews' >Show All Reviews</Link>
                 </button>
                 
             </div>

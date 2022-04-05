@@ -3,6 +3,7 @@ import './Review.css'
 
 const Review = (props) => {
     const {name, review, ratings} = props.review;
+    
     return (
         <div className='review-box'>
             <p>{review}</p>
